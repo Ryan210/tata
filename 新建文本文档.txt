@@ -8,4 +8,4 @@ combine
 together combine
 try kobe
 
-try puu request
+try pull request
